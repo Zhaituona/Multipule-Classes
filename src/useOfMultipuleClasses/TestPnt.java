@@ -21,5 +21,5 @@ public class TestPnt {
         PNT.displayLocationName("Astoria");
         PNT.getAdminNumber();
         System.out.println("we are study in the  " + PNT.displayLocationName("Astoria"));
-    }
-}
+    }// do some test git
+} // one more line added
